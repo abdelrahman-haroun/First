@@ -1,0 +1,25 @@
+body{
+    background-color: antiquewhite;
+}
+.Num2 { border: 1px ;
+    border-style: solid;
+    background-color: aliceblue;
+    width: 900px;
+    padding: 10px;
+margin: 10px;
+}
+.ipsum{
+    background-color: burlywood;
+}
+.quas{
+    background-color: brown;
+}
+.Num3{
+    background-color: aliceblue;
+    border: 1px;
+    border-style: dotted ;
+    border-color: red;
+    width: 900px;
+    padding: 10px;
+    margin: 10px;
+}
